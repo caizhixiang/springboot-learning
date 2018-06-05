@@ -168,7 +168,4 @@
 		</plugins>
 
 	</build>
-	<modules>
-		<module>springboot-starter</module>
-	</modules>
 </project>
