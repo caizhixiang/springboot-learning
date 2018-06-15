@@ -5,7 +5,7 @@
     <artifactId>springboot-summary</artifactId>
     <version>1.0.1-SNAPSHOT</version>
   </parent>
-  <artifactId>springboot-security</artifactId>
+  <artifactId>springboot-learning</artifactId>
   <dependencies>
   	<dependency>
 		<groupId>org.springframework.boot</groupId>
