@@ -2,7 +2,7 @@
   <modelVersion>4.0.0</modelVersion>
   <parent>
     <groupId>com.caizhixiang.springboot</groupId>
-    <artifactId>springboot-summary</artifactId>
+    <artifactId>springboot-learning</artifactId>
     <version>1.0.1-SNAPSHOT</version>
   </parent>
   <artifactId>springboot-starter</artifactId>
